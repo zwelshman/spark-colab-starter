@@ -1,4 +1,4 @@
-# spark-colab-starter
+# PySpark in google colab starter notebook
 
 A repositry designed to get a PySpark playground up and running in minutes.
 
